@@ -46,10 +46,12 @@ but as a highly productive, bounded, self-limiting grammar of praxis legibility.
 
 ## Main File
 
-Current repository content, initially:
+Current repository content:
 
 ```text
 PMS - UNDER LOAD.md
+PMS - UNDER LOAD.pdf
+PMS - UNDER LOAD.html
 ```
 
 ---
