@@ -8799,7 +8799,7 @@ This appendix therefore prevents “all sources support all claims” drift.
 
 ---
 
-## D.1 Chapter-to-Source Matrix
+### D.1 Chapter-to-Source Matrix
 
 The matrix records current source roles only. It does not reconstruct prior development history.
 
@@ -8821,7 +8821,7 @@ The matrix records current source roles only. It does not reconstruct prior deve
 
 ---
 
-## D.2 Domain-Layer Status Table
+### D.2 Domain-Layer Status Table
 
 The following table compares load profiles, not paper quality. It does not rank the domain papers. Each paper is treated as a load regime for PMS.
 
@@ -8839,7 +8839,7 @@ CRITIQUE defines critique as a praxeological operation, not moral attitude, psyc
 
 ---
 
-## D.3 MIP/AH Boundary Note
+### D.3 MIP/AH Boundary Note
 
 MIP/AH does not appear as a domain-layer row in D.2.
 
@@ -8859,7 +8859,7 @@ Domain drift concerns grammar behavior under domain load; downstream governance 
 
 ---
 
-## D.4 QC Bridge-Stress Note
+### D.4 QC Bridge-Stress Note
 
 QC is included in Appendix D because it appears in Chapter 8, but it is not treated as a seventh ordinary domain paper.
 
@@ -8880,7 +8880,7 @@ It may not show physical proof.
 
 ---
 
-## D.5 PMS-RUST Implementation-Boundary Note
+### D.5 PMS-RUST Implementation-Boundary Note
 
 PMS-RUST is included in Appendix D because it now appears in Chapters 4, 7, 8, 10, 11, and 12 as implementation-boundary evidence.
 
@@ -8937,7 +8937,7 @@ It may not show PMS Base truth.
 
 ---
 
-## D.6 Anti-Ranking Rule
+### D.6 Anti-Ranking Rule
 
 The domain-layer table compares load profiles only.
 
@@ -8965,7 +8965,7 @@ Do not rank artifacts as proof.
 
 ---
 
-## D.7 Current-Source Status
+### D.7 Current-Source Status
 
 This appendix uses only the current supplied paper versions and current supplied implementation evidence as source material.
 
@@ -8985,7 +8985,7 @@ No current source carries authority beyond its layer.
 
 ---
 
-## D.8 Reduction Rule
+### D.8 Reduction Rule
 
 Appendix D reduces the source posture of *PMS Under Load* by binding each chapter and domain layer to the current supplied source state.
 
