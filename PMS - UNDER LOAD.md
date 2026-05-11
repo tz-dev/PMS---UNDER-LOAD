@@ -4735,7 +4735,7 @@ Each domain is treated according to the stress it places on PMS. The point is no
 
 ---
 
-### 8.3.1 CRITIQUE — Baseline-Stable Domain
+#### 8.3.1 CRITIQUE — Baseline-Stable Domain
 
 CRITIQUE functions as the baseline-stable domain.
 
@@ -4767,7 +4767,7 @@ It should remain capable of letting critique damage PMS.
 
 ---
 
-### 8.3.2 ANTICIPATION — Upstream / Openness Load
+#### 8.3.2 ANTICIPATION — Upstream / Openness Load
 
 ANTICIPATION functions as the upstream Λ (structured absence / non-event), Θ (temporality), and Χ (distance) portability case.
 
@@ -4812,7 +4812,7 @@ Its difficulty lies in keeping openness structurally active.
 
 ---
 
-### 8.3.3 CONFLICT — High-Load / Terminality Pressure
+#### 8.3.3 CONFLICT — High-Load / Terminality Pressure
 
 CONFLICT tests PMS under stabilized non-integrability.
 
@@ -4855,7 +4855,7 @@ It is weakest where terminality becomes a stabilizing label.
 
 ---
 
-### 8.3.4 LOGIC — Boundary / Meta-Normative Collision
+#### 8.3.4 LOGIC — Boundary / Meta-Normative Collision
 
 LOGIC tests PMS at the boundary between non-normative structure and responsibility.
 
@@ -4899,7 +4899,7 @@ That proximity is its load.
 
 ---
 
-### 8.3.5 SEX — High-Ω / High-Exposure / Outer-Legibility Stress
+#### 8.3.5 SEX — High-Ω / High-Exposure / Outer-Legibility Stress
 
 SEX is the high-risk domain layer.
 
@@ -4951,7 +4951,7 @@ If that distinction fails, SEX becomes the clearest case of domain drift.
 
 ---
 
-### 8.3.6 EDEN — Translation Dominance / Sensitive Asymmetry Stress
+#### 8.3.6 EDEN — Translation Dominance / Sensitive Asymmetry Stress
 
 EDEN tests PMS under symbolically dense, sensitive, and highly interpretable material.
 
@@ -5037,7 +5037,7 @@ repo evidence ≠ PMS Base validation
 
 ---
 
-### 8.4.1 QC — Formal / Technical Bridge Stress
+#### 8.4.1 QC — Formal / Technical Bridge Stress
 
 The required sentence is:
 
@@ -5109,7 +5109,7 @@ Bridge proof is not claimed.
 
 ---
 
-### 8.4.2 PMS-RUST — Implementation-Boundary Stress
+#### 8.4.2 PMS-RUST — Implementation-Boundary Stress
 
 PMS-RUST is not a domain paper.
 
@@ -6329,7 +6329,7 @@ They are four ways of making the limit legible.
 
 ---
 
-### 10.2.1 LOGIC — Closure Meets Λ
+#### 10.2.1 LOGIC — Closure Meets Λ
 
 LOGIC shows why total self-closure remains structurally implausible.
 
@@ -6414,7 +6414,7 @@ It is also not final settlement.
 
 ---
 
-### 10.2.2 MIP/AH — Audit Strength vs Self-Endangerment
+#### 10.2.2 MIP/AH — Audit Strength vs Self-Endangerment
 
 MIP/AH (Maturity in Practice / AH Precision: Attack Surface / Hardening) can contribute to self-application only under constraint.
 
@@ -6502,7 +6502,7 @@ But hardening is not enough.
 
 ---
 
-### 10.2.3 PMS-RUST — Artifact Auditability vs Loss Condition
+#### 10.2.3 PMS-RUST — Artifact Auditability vs Loss Condition
 
 PMS-RUST contributes a distinct artifact-level version of the self-application problem.
 
