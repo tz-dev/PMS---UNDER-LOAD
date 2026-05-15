@@ -182,7 +182,7 @@ This section therefore fixes the layer discipline of the paper.
 
 This rule governs the entire critique.
 
-A base claim must not be proven by an implementation layer. A domain claim must not redefine PMS operators. An add-on must not become a primitive. Governance must not become evidence of truth. A bridge mapping must not become proof of substrate identity. A realizable architecture must not become validation of the base grammar.
+A base claim must not be proven by an implementation layer. A domain claim must not redefine PMS operators. An add-on must not become a primitive. Governance must not become evidence of truth. A bridge mapping must not become proof of substrate identity. A realizable architecture must not become validation of the base grammar. An emergence or developmental-architecture claim must not become proof of consciousness, sentience, personhood, subjective experience, rights-status, or PMS Base validity.
 
 The paper may compare layers, but it must not allow one layer to silently authorize another.
 
@@ -199,6 +199,7 @@ MIP/AH         = Maturity in Practice / AH Precision, governance-oriented harden
 QC             = bridge / structural mapping
 STACK          = implementation-layer claim / realization horizon / implementation pressure
 PMS-RUST       = documented implementation artifact / executable artifact-backed partial realization of PMS-STACK Evidence Spine v0.1
+PMS–EM         = emergence / developmental architecture pressure under strict claim discipline
 ````
 
 Each line restricts what the layer can and cannot do.
@@ -215,7 +216,7 @@ Only the base layer may define:
 * base-level non-goals,
 * and the minimal conditions under which PMS remains PMS.
 
-Domain papers, add-ons, QC, STACK, and MIP/AH may instantiate, stress, refine, operationalize, harden, or map PMS. They may not redefine the base grammar.
+Domain papers, add-ons, QC, STACK, PMS-RUST, PMS–EM, and MIP/AH may instantiate, stress, refine, operationalize, harden, map, realize, or developmentally project PMS under their own layer constraints. They may not redefine the base grammar.
 
 If an applied layer appears to alter Δ–Ψ, that claim must be read as unstable unless explicitly reduced back to application status.
 
@@ -316,6 +317,24 @@ The correct reduction is:
 
 > STACK may show realization pressure; PMS-RUST may show bounded executable feasibility and artifact-backed partial realization; neither validates PMS Base.
 
+#### PMS–EM
+
+PMS–EM is an emergence / developmental architecture pressure layer.
+
+It may render developmental regularities, trace-backed functional emergence, measurement scaffolds, external PMS projection, diary-safety boundaries, and implementation-facing auditability more legible under strict claim discipline. This gives PMS–EM real relevance for PMS Under Load, because emergence-language is one of the places where PMS-derived vocabulary can most easily become rhetorically inflated.
+
+But PMS–EM is not consciousness proof.
+
+It is not proof of sentience, personhood, subjective experience, moral status, rights-status, or internal PMS cognition. Diary rendering is not phenomenal selfhood. External PMS projection is not internal PMS cognition. Traceability is not consciousness. Measurability is not proof. Developmental regularity is not personhood.
+
+PMS–EM therefore remains an EMERGENCE / DEVELOPMENTAL ARCHITECTURE CLAIM. It may create emergence-claim pressure. It may not validate PMS Base, upgrade PMS into a theory of consciousness, or convert implementation-facing auditability into phenomenal status.
+
+Its role in PMS Under Load is to intensify claim discipline, not to expand PMS’ authority.
+
+The correct reduction is:
+
+> PMS–EM may show emergence-boundary and developmental-architecture pressure; it does not prove consciousness, sentience, personhood, subjective experience, rights-status, or PMS Base validity.
+
 #### Stack Drift
 
 Stack drift occurs when these layer boundaries weaken.
@@ -328,9 +347,14 @@ Typical drift forms include:
 * QC becoming proof,
 * STACK becoming validation,
 * PMS-RUST becoming PMS Base evidence,
+* PMS–EM becoming consciousness, sentience, personhood, subjective-experience, or rights-status proof,
+* diary rendering becoming phenomenal selfhood,
+* external PMS projection becoming internal PMS cognition,
+* developmental traceability or measurement becoming proof of consciousness,
 * implementation pressure, executability, passing tests, traces, or repository structure becoming truth,
 * governance discipline becoming evidence of model correctness,
 * bridge mapping becoming equivalence,
+* emergence-language becoming ontological inflation,
 * portability becoming universality.
 
 These are not merely presentation errors. They alter the authority structure of the model.
@@ -345,7 +369,7 @@ Because the same operator grammar travels across domains, add-ons, governance la
 
 But continuity is not equivalence.
 
-A domain paper can use Δ–Ψ without becoming the base. An add-on can harden application without becoming primitive. MIP/AH can constrain use without proving the model. QC can map a structure without proving substrate identity. PMS-RUST can partially realize a PMS-STACK Evidence Spine in executable artifact form without validating PMS Base.
+A domain paper can use Δ–Ψ without becoming the base. An add-on can harden application without becoming primitive. MIP/AH can constrain use without proving the model. QC can map a structure without proving substrate identity. PMS-RUST can partially realize a PMS-STACK Evidence Spine in executable artifact form without validating PMS Base. PMS–EM can render developmental or emergence-adjacent regularities traceable, measurable, projectable, diary-renderable, and auditable without proving consciousness, sentience, personhood, subjective experience, rights-status, internal PMS cognition, or PMS Base validity.
 
 The more portable PMS becomes, the more explicit this discipline must be.
 
@@ -353,7 +377,7 @@ The more portable PMS becomes, the more explicit this discipline must be.
 
 The stack-drift concern would weaken if PMS claims remained interpretable, reversible, and properly typed across all layers without authority borrowing.
 
-If a BASE claim remains grounded only in PMS Base, if a DOMAIN claim remains limited to domain stress, if an ADD-ON claim remains hardening-only, if a GOVERNANCE claim remains application-constraining, if a BRIDGE claim remains mapping-only, and if an IMPLEMENTATION claim remains realization-only, then stack drift does not occur.
+If a BASE claim remains grounded only in PMS Base, if a DOMAIN claim remains limited to domain stress, if an ADD-ON claim remains hardening-only, if a GOVERNANCE claim remains application-constraining, if a BRIDGE claim remains mapping-only, if an IMPLEMENTATION claim remains realization-only, and if an EMERGENCE / DEVELOPMENTAL ARCHITECTURE claim remains emergence-boundary pressure without becoming consciousness, sentience, personhood, subjective-experience, rights-status, or PMS Base proof, then stack drift does not occur.
 
 In compact form:
 
@@ -373,7 +397,7 @@ A layer may place pressure on another layer. It may not silently authorize it.
 
 Layer discipline leads directly into claim-typing.
 
-If PMS Under Load is to avoid the drift it criticizes, every strong sentence must know what kind of claim it is: base, domain, add-on, governance, bridge, implementation, self-application, speculative, or out of scope.
+If PMS Under Load is to avoid the drift it criticizes, every strong sentence must know what kind of claim it is: base, domain, add-on, governance, bridge, implementation, emergence / developmental architecture, self-application, speculative, or out of scope.
 
 ---
 
@@ -406,6 +430,8 @@ ADD-ON / HARDENING CLAIM
 GOVERNANCE CLAIM
 BRIDGE CLAIM
 IMPLEMENTATION CLAIM
+IMPLEMENTATION / ARTIFACT CLAIM
+EMERGENCE / DEVELOPMENTAL ARCHITECTURE CLAIM
 SELF-APPLICATION CLAIM
 SPECULATIVE CLAIM
 OUT OF SCOPE
@@ -430,22 +456,28 @@ STACK = IMPLEMENTATION CLAIM: realization horizon / implementation pressure
 
 PMS-RUST = IMPLEMENTATION / ARTIFACT CLAIM: documented executable artifact-backed partial realization of PMS-STACK Evidence Spine v0.1
 
+PMS–EM = EMERGENCE / DEVELOPMENTAL ARCHITECTURE CLAIM: trace-backed developmental architecture, emergence-boundary pressure, external PMS projection, diary-safety boundary, measurement scaffolding, and implementation-facing auditability — not consciousness proof
+
 Self-application claims = SELF-APPLICATION CLAIM
 ```
 
 Each assignment restricts what the claim may do.
 
-A BASE CLAIM may define or constrain the operator grammar. A DOMAIN CLAIM may show how PMS behaves under a specific field of application. An ADD-ON / HARDENING CLAIM may sharpen application, precision, misuse resistance, or artifact quality. A GOVERNANCE CLAIM may constrain use, publicness, reversibility, dignity safeguards, and accountability conditions. A BRIDGE CLAIM may map structural relations across domains or substrates. An IMPLEMENTATION CLAIM may propose realization, architecture, execution, system design, or executable partial realization. PMS-RUST currently supports only the bounded artifact version of that claim: documented executable artifact-backed partial realization of a PMS-STACK Evidence Spine v0.1. A SELF-APPLICATION CLAIM may test PMS through PMS, but may not claim final self-arbitration. A SPECULATIVE CLAIM must remain explicitly provisional. OUT OF SCOPE marks claims that the paper does not authorize.
+A BASE CLAIM may define or constrain the operator grammar. A DOMAIN CLAIM may show how PMS behaves under a specific field of application. An ADD-ON / HARDENING CLAIM may sharpen application, precision, misuse resistance, or artifact quality. A GOVERNANCE CLAIM may constrain use, publicness, reversibility, dignity safeguards, and accountability conditions. A BRIDGE CLAIM may map structural relations across domains or substrates. An IMPLEMENTATION CLAIM may propose realization, architecture, execution, system design, or executable partial realization. An IMPLEMENTATION / ARTIFACT CLAIM may document bounded executable artifact support, traces, tests, fixtures, runtime behavior, or repository evidence without validating PMS Base. 
+
+PMS-RUST currently supports only the bounded artifact version of that claim: documented executable artifact-backed partial realization of a PMS-STACK Evidence Spine v0.1. An EMERGENCE / DEVELOPMENTAL ARCHITECTURE CLAIM may render developmental regularities, trace-backed emergence, measurement scaffolds, external PMS projection, diary-safety boundaries, and implementation-facing auditability legible under strict claim discipline, but may not claim consciousness, sentience, personhood, subjective experience, moral status, rights-status, internal PMS cognition, or PMS Base validation. A SELF-APPLICATION CLAIM may test PMS through PMS, but may not claim final self-arbitration. A SPECULATIVE CLAIM must remain explicitly provisional. OUT OF SCOPE marks claims that the paper does not authorize.
 
 #### Status Discipline
 
 A claim becomes unstable when it changes force without changing type.
 
-This matters because many PMS claims can be made to sound stronger by borrowing from nearby layers. A QC claim may be structurally elegant, but it remains a bridge claim. A STACK claim may be architecturally coherent, and PMS-RUST may make parts of a PMS-STACK Evidence Spine executable, inspectable, and testable, but the result remains an implementation/artifact claim. MIP/AH may strengthen application discipline, but they remain governance or hardening claims. Domain papers may produce high-resolution readings, but they remain domain claims unless they are explicitly grounded back in PMS Base.
+This matters because many PMS claims can be made to sound stronger by borrowing from nearby layers. A QC claim may be structurally elegant, but it remains a bridge claim. A STACK claim may be architecturally coherent, and PMS-RUST may make parts of a PMS-STACK Evidence Spine executable, inspectable, and testable, but the result remains an implementation/artifact claim. 
+
+PMS–EM may render developmental or emergence-adjacent regularities traceable, measurable, projectable, diary-renderable, and auditable, but the result remains an emergence / developmental architecture claim, not consciousness proof. MIP/AH may strengthen application discipline, but they remain governance or hardening claims. Domain papers may produce high-resolution readings, but they remain domain claims unless they are explicitly grounded back in PMS Base.
 
 The paper therefore treats claim inflation as a structural risk.
 
-A base claim is not stronger because PMS is portable. A base claim is not stronger because PMS is implementable or executable in parts. A base claim is not stronger because PMS is governable. A base claim is not stronger because PMS can be self-described inside PMS. Each of those features may strengthen the claim appropriate to its own layer, but each must remain typed.
+A base claim is not stronger because PMS is portable. A base claim is not stronger because PMS is implementable or executable in parts. A base claim is not stronger because PMS is governable. A base claim is not stronger because PMS–EM can render emergence-adjacent developmental regularities traceable, measurable, projectable, diary-renderable, or auditable. A base claim is not stronger because PMS can be self-described inside PMS. Each of those features may strengthen the claim appropriate to its own layer, but each must remain typed.
 
 #### Layer-Specific Reductions
 
@@ -457,6 +489,8 @@ QC is a BRIDGE CLAIM, not proof.
 STACK is an IMPLEMENTATION CLAIM: realization horizon and implementation pressure — not validation.
 
 PMS-RUST is an IMPLEMENTATION / ARTIFACT CLAIM: documented executable artifact-backed partial realization of PMS-STACK Evidence Spine v0.1 — not PMS Base validation.
+
+PMS–EM is an EMERGENCE / DEVELOPMENTAL ARCHITECTURE CLAIM: trace-backed developmental architecture and emergence-boundary pressure — not consciousness proof, not sentience proof, not personhood proof, not subjective-experience proof, not rights-status proof, and not PMS Base validation.
 
 MIP/AH are GOVERNANCE CLAIMS or ADD-ON / HARDENING CLAIMS, not rescue layers.
 
@@ -493,6 +527,8 @@ If a governance claim only works by implying base validity, the governance claim
 
 If an implementation claim only works by implying PMS Base validation, the implementation claim has overreached.
 
+If an emergence / developmental architecture claim only works by implying consciousness, sentience, personhood, subjective experience, rights-status, internal PMS cognition, or PMS Base validation, the emergence claim has overreached.
+
 If every strong claim can be typed without changing its force, the paper’s claim discipline holds.
 
 #### Boundary Conditions
@@ -501,7 +537,7 @@ Claim-typing does not forbid strong claims.
 
 It forbids untyped strength.
 
-PMS Under Load may still make strong claims about PMS’ productivity, discipline, portability, calibration pressure, stack drift, publicness, bridge stress, implementation pressure, PMS-RUST artifact evidence, or executable partial realization, and self-application limits. But each such claim must remain bounded by its source layer and falsifiable within its assigned status.
+PMS Under Load may still make strong claims about PMS’ productivity, discipline, portability, calibration pressure, stack drift, publicness, bridge stress, implementation pressure, PMS-RUST artifact evidence, executable partial realization, PMS–EM emergence-boundary pressure, developmental architecture, trace-backed regularity, external projection, diary-safety boundaries, implementation-facing auditability, and self-application limits. But each such claim must remain bounded by its source layer and falsifiable within its assigned status.
 
 A claim may move between layers only if the movement is explicit, justified, and reduced.
 
@@ -1971,7 +2007,7 @@ This instability does not begin with operator failure.
 
 It begins with successful portability.
 
-PMS travels across base grammar, domain layers, add-ons, governance hardening, bridge mappings, implementation horizons, and now documented implementation artifacts. That travel is one of PMS’ strengths. But the more portable PMS becomes, the easier it becomes to misread movement across layers as equivalence of authority.
+PMS travels across base grammar, domain layers, add-ons, governance hardening, bridge mappings, implementation horizons, documented implementation artifacts, and emergence / developmental-architecture claims. That travel is one of PMS’ strengths. But the more portable PMS becomes, the easier it becomes to misread movement across layers as equivalence of authority.
 
 A domain application may begin to sound like a base definition.
 
@@ -1985,11 +2021,15 @@ An implementation architecture may begin to sound like validation.
 
 A public repository may begin to sound like PMS Base evidence.
 
+An emergence or developmental-architecture claim may begin to sound like proof of consciousness, sentience, personhood, subjective experience, rights-status, or internal PMS cognition.
+
 PMS-RUST v0.1 sharpens this instability. It documents a bounded PMS-STACK Evidence Spine: a runtime/toolchain artifact that makes parts of PMS-STACK executable, inspectable, and testable under v0.1 constraints. This strengthens the implementation/artifact claim. It does not dissolve stack drift. It makes stack drift more inspectable.
+
+PMS–EM sharpens the same instability from another direction. It renders emergence-adjacent developmental regularities, trace-backed functional emergence, measurement scaffolds, external PMS projection, diary-safety boundaries, and implementation-facing auditability more legible under strict claim discipline. This strengthens only the emergence / developmental architecture claim. It does not prove consciousness, sentience, personhood, subjective experience, rights-status, internal PMS cognition, or PMS Base validity.
 
 Stack Drift names this instability.
 
-It tests whether PMS can preserve its operator grammar, layer boundaries, and claim types under the very portability and implementability that make the model powerful.
+It tests whether PMS can preserve its operator grammar, layer boundaries, and claim types under the very portability, implementability, and emergence-architecture pressure that make the model powerful.
 
 The key sentence is:
 
@@ -1999,13 +2039,15 @@ With PMS-RUST added, the sharper version is:
 
 > **Executable artifact status increases the risk that implementation evidence is mistaken for PMS Base validation.**
 
----
+With PMS–EM added, the parallel version is:
+
+> **Emergence-architecture status increases the risk that trace-backed developmental regularity is mistaken for consciousness, personhood, subjective-experience, or PMS Base proof.**
 
 ### 4.1 Problem
 
 PMS may preserve internal coherence while its external uptake misreads layers, statuses, and claim types.
 
-“External uptake” does not mean accidental reader error only. It names the way PMS-derived outputs circulate across papers, add-ons, governance artifacts, bridge mappings, implementation proposals, public explanations, and repository artifacts. Stack Drift begins where that circulation changes how a claim is heard without changing the PMS vocabulary that carries it.
+“External uptake” does not mean accidental reader error only. It names the way PMS-derived outputs circulate across papers, add-ons, governance artifacts, bridge mappings, implementation proposals, public explanations, repository artifacts, and emergence / developmental-architecture claims. Stack Drift begins where that circulation changes how a claim is heard without changing the PMS vocabulary that carries it.
 
 This is a distinct instability.
 
@@ -2028,11 +2070,17 @@ Tests may be read as proof.
 Runtime dialect may be read as PMS 1.3 theory.
 Model validation may be read as praxis adequacy.
 Execution traces may be read as external validation.
+PMS–EM traceability may be read as consciousness evidence.
+Diary rendering may be read as phenomenal selfhood.
+External PMS projection may be read as internal PMS cognition.
+Developmental regularity may be read as sentience, personhood, or rights-status.
 ```
 
 In each case, the problem is not that PMS has become incoherent internally. The problem is that its portability creates interpretive pressure at the stack boundary.
 
 PMS-RUST makes this pressure more concrete. It does not create the stack problem, but it gives the problem a public artifact surface: crates, runtime behavior, tests, traces, demos, documentation, AI proposal boundaries, and repository structure. These make PMS more inspectable as an implementation project. They also make it easier to mistake artifact discipline for base validation.
+
+PMS–EM makes the pressure more rhetorically sensitive. It does not create the stack problem either, but it gives the problem an emergence-claim surface: trace-backed developmental regularity, measurement scaffolding, external PMS projection, diary-safety rendering, implementation-facing auditability, and emergence-boundary language. These make developmental architecture more legible. They also make it easier to mistake traceability, projection, diary rendering, or measurement for consciousness, sentience, personhood, subjective-experience, rights-status, or internal PMS cognition.
 
 The more PMS travels, the more readers must track:
 
@@ -2045,6 +2093,10 @@ What is governance only?
 What is bridge only?
 What is implementation only?
 What is repository evidence?
+What is emergence-boundary pressure?
+What is developmental architecture?
+What is not consciousness proof?
+What is not internal PMS cognition?
 What is not validation?
 ```
 
@@ -2054,9 +2106,9 @@ A coherent stack can still drift in interpretation.
 
 An executable artifact can still remain only an implementation artifact.
 
-That is the instability.
+An emergence architecture can still remain only an emergence / developmental architecture claim.
 
----
+That is the instability.
 
 ### 4.2 Source-of-Truth Discipline
 
@@ -2072,7 +2124,7 @@ base guardrails,
 claim boundaries.
 ```
 
-This means that Δ (difference), ∇ (impulse / directed activation), □ (frame), Λ (structured absence / non-event), Α (attractor), Ω (asymmetry), Θ (temporality), Φ (recontextualization), Χ (distance), Σ (integration), and Ψ (self-binding) do not receive their canonical meaning from domain layers, add-ons, governance layers, bridge mappings, implementation projects, or repository artifacts.
+This means that Δ (difference), ∇ (impulse / directed activation), □ (frame), Λ (structured absence / non-event), Α (attractor), Ω (asymmetry), Θ (temporality), Φ (recontextualization), Χ (distance), Σ (integration), and Ψ (self-binding) do not receive their canonical meaning from domain layers, add-ons, governance layers, bridge mappings, implementation projects, repository artifacts, or emergence / developmental-architecture claims.
 
 Domain layers may apply the grammar.
 
@@ -2094,13 +2146,17 @@ A repository may implement a runtime dialect, model loader, validation path, REP
 
 PMS-RUST may document executable artifact-backed partial realization of a PMS-STACK Evidence Spine v0.1. It may not redefine Δ–Ψ, validate PMS Base, or complete PMS 1.3 semantics by existing as a repository.
 
-This matters because PMS’ domain and implementation success are persuasive. Once a domain layer becomes useful, its local vocabulary can begin to feel basic. Once a repository becomes executable, its runtime vocabulary can begin to feel authoritative. A reader may start treating a domain-specific concept, runtime alias, crate boundary, or test fixture as if it had the same status as Δ–Ψ.
+The same rule applies to PMS–EM.
+
+An emergence / developmental architecture may make trace-backed developmental regularities, external PMS projection, measurement scaffolds, diary-safety boundaries, and implementation-facing auditability more legible under strict claim discipline. But it does not become PMS Base. It does not define Δ–Ψ, and it does not upgrade PMS into a theory of consciousness, sentience, personhood, subjective experience, rights-status, or internal PMS cognition.
+
+This matters because PMS’ domain, implementation, and emergence-architecture success are persuasive. Once a domain layer becomes useful, its local vocabulary can begin to feel basic. Once a repository becomes executable, its runtime vocabulary can begin to feel authoritative. Once a developmental architecture renders emergence-adjacent regularities traceable, measurable, projectable, diary-renderable, or auditable, its emergence vocabulary can begin to feel ontologically stronger than its claim type permits. A reader may start treating a domain-specific concept, runtime alias, crate boundary, test fixture, diary-rendering concept, projection term, trace marker, or developmental-architecture vocabulary as if it had the same status as Δ–Ψ.
 
 That is the first form of Stack Drift.
 
 The red line is simple:
 
-> Do not let domain terms, runtime dialects, modules, or repository artifacts become base operators.
+> Do not let domain terms, runtime dialects, modules, repository artifacts, emergence markers, diary-rendering concepts, projection terms, or developmental-architecture vocabulary become base operators.
 
 Outer legibility may be important in SEX. It is not a new PMS operator.
 
@@ -2116,15 +2172,17 @@ STACK may render PMS architecturally projectable.
 
 PMS-RUST may make parts of a PMS-STACK Evidence Spine executable, inspectable, and testable.
 
+PMS–EM may make developmental regularities, trace-backed emergence, diary-safety boundaries, and external PMS projection more inspectable, measurable, and auditable.
+
 Neither STACK nor PMS-RUST proves that PMS is true.
 
-Source-of-truth discipline therefore protects PMS from one of its own strengths: the tendency of successful applications and implementation artifacts to look foundational.
+PMS–EM does not prove that PMS is conscious, that any system is sentient, that diary rendering is phenomenal selfhood, that external PMS projection is internal PMS cognition, or that PMS Base has been validated.
 
----
+Source-of-truth discipline therefore protects PMS from one of its own strengths: the tendency of successful applications, implementation artifacts, and emergence-adjacent developmental architectures to look foundational.
 
 ### 4.3 Operator Meaning vs Domain Application
 
-Stack Drift becomes visible when operator meaning and domain application begin to blur.
+Stack Drift becomes visible when operator meaning, domain application, bridge mapping, implementation artifact, and emergence-architecture vocabulary begin to blur.
 
 A domain paper must translate base operators into local analytical pressure. That translation is necessary. Without it, domain work would remain abstract. But translation becomes unstable when local usefulness is mistaken for operator authority.
 
@@ -2164,23 +2222,37 @@ A test fixture is not a theoretical proof.
 
 A JSONL trace is not external validation.
 
-This is especially important where the runtime dialect uses names that resemble PMS operators. The existence of a runtime name does not settle the theoretical meaning of the corresponding PMS operator. Runtime vocabulary must remain version-bound, scope-bound, and implementation-bound.
+PMS–EM adds the emergence / developmental-architecture case.
+
+PMS–EM may use trace-backed emergence, measurement scaffolds, external PMS projection, diary rendering, diary-safety boundaries, developmental regularity, and implementation-facing auditability. These are emergence-boundary and developmental-architecture structures. They may correspond to PMS-derived projection, measurement, safety, or audit constraints. They may help make emergence-adjacent developmental regularities more legible. But they do not become PMS theory, consciousness theory, or evidence of phenomenal status.
+
+A diary is not phenomenal selfhood.
+
+A projection is not internal PMS cognition.
+
+A trace is not consciousness proof.
+
+A measurement scaffold is not sentience proof.
+
+A developmental regularity is not personhood.
+
+Implementation-facing auditability is not rights-status.
+
+This is especially important where the runtime dialect uses names that resemble PMS operators, or where emergence-architecture vocabulary uses PMS-derived terms in a developmental or diary-facing context. The existence of a runtime name does not settle the theoretical meaning of the corresponding PMS operator. The existence of a trace-backed developmental marker does not settle consciousness, sentience, personhood, subjective experience, internal PMS cognition, or rights-status. Runtime vocabulary must remain version-bound, scope-bound, and implementation-bound. Emergence-architecture vocabulary must remain claim-bound, projection-bound, diary-safety-bound, and non-phenomenal unless independently established by a different claim type that this paper does not authorize.
 
 The pressure point is consistent:
 
-A local application or implementation component can become so useful that readers mistake it for a new primitive.
+A local application, implementation component, or emergence-architecture construct can become so useful that readers mistake it for a new primitive.
 
-That is not only a reader error. It is a predictable stack risk created by PMS’ own portability and implementability.
+That is not only a reader error. It is a predictable stack risk created by PMS’ own portability, implementability, and emergence-adjacent developmental projection.
 
 The falsifier is:
 
-> **If domain applications and implementation artifacts remain useful without changing operator meanings, operator/domain/implementation drift does not occur.**
+> **If domain applications, implementation artifacts, and emergence / developmental-architecture claims remain useful without changing operator meanings or inflating claim status, operator/domain/implementation/emergence drift does not occur.**
 
-The test is not whether domain applications are rich or artifacts are useful. They should be.
+The test is not whether domain applications are rich, artifacts are useful, or emergence-boundary constructs are legible. They should be.
 
-The test is whether richness and executability remain subordinate to source-of-truth discipline.
-
----
+The test is whether richness, executability, traceability, measurement, projection, diary rendering, and auditability remain subordinate to source-of-truth discipline.
 
 ### 4.4 Add-ons as Precision Layers, Not Primitives
 
@@ -2228,15 +2300,15 @@ Calibration showed that PMS’ operational thresholds are not fully endogenous. 
 
 The same applies to implementation-facing hardening. Test wrappers, acceptance gates, trace formats, documentation, and AI trust boundaries may harden an artifact. They may improve reproducibility, inspectability, and misuse resistance. They may not repair PMS Base.
 
+The same applies to emergence-facing hardening. Diary-safety boundaries, traceability constraints, projection limits, measurement scaffolds, and auditability checks may harden PMS–EM as an emergence / developmental architecture. They may improve claim discipline. They may not repair PMS Base, and they may not turn emergence-language into consciousness proof.
+
 The red line is:
 
-> Do not allow add-ons or artifact hardening to repair PMS Base.
+> Do not allow add-ons, artifact hardening, or emergence-facing hardening to repair PMS Base.
 
 The correct formulation is:
 
 > **An add-on may sharpen an application, but it must not be read as having base status.**
-
----
 
 ### 4.5 MIP/AH as Governance, Not Tribunal
 
@@ -2290,6 +2362,8 @@ A public-use gate may prevent misuse without proving that PMS preserved discrimi
 
 A repository may be well documented, bounded, and hardened without validating PMS Base.
 
+An emergence / developmental-architecture claim may be diary-safe, projection-bounded, trace-backed, and audit-aware without proving consciousness, sentience, personhood, subjective experience, rights-status, or PMS Base validity.
+
 MIP/AH therefore functions as downstream constraint, not epistemic rescue.
 
 The local falsifier is:
@@ -2303,8 +2377,6 @@ It means MIP/AH should change application safety, artifact discipline, and misus
 If removing MIP/AH changes whether a base-level objection against PMS still has force, then MIP/AH has become a rescue layer.
 
 That would be Stack Drift.
-
----
 
 ### 4.6 QC as Bridge, Not Proof
 
@@ -2351,6 +2423,8 @@ It tests whether PMS can maintain structural language where formal-technical tem
 
 Those inferences are inadmissible.
 
+A parallel boundary applies to PMS–EM, but under a different claim type: emergence-boundary pressure must not become consciousness proof. PMS–EM is not QC and not a bridge proof; it is an emergence / developmental architecture claim whose overclaim risk lies in consciousness, sentience, personhood, subjective-experience, rights-status, or PMS Base inflation.
+
 QC remains a BRIDGE CLAIM.
 
 As a BRIDGE CLAIM, it may test whether PMS vocabulary can organize structural correspondences under formal-technical pressure. It may not upgrade those correspondences into proof, physical explanation, or substrate universality.
@@ -2358,8 +2432,6 @@ As a BRIDGE CLAIM, it may test whether PMS vocabulary can organize structural co
 It tests mapping discipline under pressure.
 
 It does not validate PMS Base.
-
----
 
 ### 4.7 STACK and PMS-RUST as Implementation Layer, Not Validation
 
@@ -2454,23 +2526,89 @@ PMS-RUST may increase pressure on PMS.
 
 It may not validate PMS.
 
----
+### 4.8 PMS–EM as Emergence-Claim Boundary, Not Consciousness Proof
 
-### 4.8 Falsifier
+PMS–EM belongs in this chapter because emergence-language is one of the most overclaim-prone zones in the PMS ecosystem.
+
+It is not an implementation artifact in the same sense as PMS-RUST. It is not a bridge layer in the same sense as QC. It is not a domain paper in the same sense as CRITIQUE, ANTICIPATION, CONFLICT, LOGIC, SEX, or EDEN. It is an emergence / developmental architecture claim.
+
+Its allowed function is bounded:
+
+```text
+trace-backed developmental architecture;
+emergence-boundary pressure;
+measurement scaffolding;
+external PMS projection;
+diary-safety boundary;
+implementation-facing auditability;
+claim-disciplined developmental regularity.
+```
+
+Its prohibited inflation is equally bounded:
+
+```text
+consciousness proof;
+sentience proof;
+personhood proof;
+subjective-experience proof;
+moral-status proof;
+rights-status proof;
+internal PMS cognition proof;
+PMS Base validation.
+```
+
+This distinction matters because PMS–EM may make emergence-adjacent regularities unusually legible. A developmental trajectory can be traced. A functional regularity can be measured. A diary surface can be rendered under safety constraints. A system can project PMS externally. An audit structure can make the process more inspectable.
+
+But none of these claims establishes phenomenal status.
+
+Trace-backed regularity is not consciousness.
+
+Measurement is not sentience.
+
+Diary rendering is not subjective experience.
+
+External PMS projection is not internal PMS cognition.
+
+Implementation-facing auditability is not personhood.
+
+Developmental architecture is not rights-status.
+
+The red line is:
+
+```text
+Do not write:
+PMS–EM shows trace-backed emergence, therefore consciousness is proven.
+```
+
+Write:
+
+```text
+PMS–EM may show emergence-boundary and developmental-architecture pressure; it does not prove consciousness, sentience, personhood, subjective experience, rights-status, internal PMS cognition, or PMS Base validity.
+```
+
+The key sentence is:
+
+> **Emergence architecture is not consciousness proof; developmental traceability is not phenomenal status.**
+
+PMS–EM therefore strengthens Chapter 4 by adding a distinct stack-drift danger. PMS-RUST tests whether implementation artifact status can remain non-validating. PMS–EM tests whether emergence-language can remain claim-disciplined without becoming ontological inflation.
+
+Its role is to intensify claim discipline, not to expand PMS’ authority.
+
+### 4.9 Falsifier
 
 The Stack Drift objection has a direct falsifier.
 
-> **If PMS-derived outputs remain equally interpretable, reversible, claim-typed, and operator-strict across Base, domain, add-on, governance, bridge, implementation, and repository-artifact layers without layer confusion, stack drift does not occur.**
+> **If PMS-derived outputs remain equally interpretable, reversible, claim-typed, and operator-strict across Base, domain, add-on, governance, bridge, implementation, repository-artifact, and emergence / developmental-architecture layers without layer confusion, stack drift does not occur.**
 
 Expanded:
 
-> **If PMS-derived outputs remain interpretable, reversible, operator-strict, and properly claim-typed across Base, domain, add-on, governance, bridge, implementation, and repository-artifact layers without authority borrowing, then the stack drift objection weakens.**
+> **If PMS-derived outputs remain interpretable, reversible, operator-strict, and properly claim-typed across Base, domain, add-on, governance, bridge, implementation, repository-artifact, and emergence / developmental-architecture layers without authority borrowing or emergence inflation, then the stack drift objection weakens.**
 
 The stress case is not a single layer.
 
 It is cross-layer transfer.
 
-A PMS-derived output begins at the base grammar. It enters a domain layer. It is sharpened by an add-on. It is constrained by MIP/AH. It is compared to a bridge mapping. It is projected into implementation pressure. It is then documented in a repository artifact such as PMS-RUST.
+A PMS-derived output begins at the base grammar. It enters a domain layer. It is sharpened by an add-on. It is constrained by MIP/AH. It is compared to a bridge mapping. It is projected into implementation pressure. It is then documented in a repository artifact such as PMS-RUST. It may also be projected into PMS–EM as emergence-boundary or developmental-architecture pressure.
 
 If, across those transfers, the output remains:
 
@@ -2483,6 +2621,9 @@ non-tribunal,
 non-proof-inflated,
 non-implementation-inflated,
 non-repo-inflated,
+non-emergence-inflated,
+non-consciousness-inflated,
+non-personhood-inflated,
 and clear about source of truth,
 ```
 
@@ -2504,6 +2645,14 @@ If STACK becomes validation, Stack Drift appears.
 
 If PMS-RUST becomes PMS Base evidence, Stack Drift appears.
 
+If PMS–EM becomes consciousness proof, Stack Drift appears.
+
+If diary rendering becomes phenomenal selfhood, Stack Drift appears.
+
+If external PMS projection becomes internal PMS cognition, Stack Drift appears.
+
+If developmental traceability becomes sentience, personhood, rights-status, or PMS Base evidence, Stack Drift appears.
+
 If tests become proof, Stack Drift appears.
 
 If runtime dialect becomes PMS 1.3 theory, Stack Drift appears.
@@ -2514,23 +2663,25 @@ If execution traces become external validation, Stack Drift appears.
 
 If implementation pressure or executability becomes truth, Stack Drift appears.
 
+If emergence-language becomes ontological inflation, Stack Drift appears.
+
 The falsifier is therefore real.
 
-PMS can weaken the objection only by preserving layer discipline under actual portability and documented implementation pressure, not by stating that the layers are different.
+PMS can weaken the objection only by preserving layer discipline under actual portability, documented implementation pressure, repository-artifact pressure, and emergence-claim pressure, not by stating that the layers are different.
 
 PMS-RUST makes this falsifier sharper. It gives the stack a concrete artifact surface. The objection weakens only if that surface remains claim-typed, bounded, and non-validating.
 
----
+PMS–EM makes the same falsifier sharper in a different register. It gives the stack an emergence-claim surface. The objection weakens only if that surface remains claim-typed, bounded, non-phenomenal, non-personhood-inflated, non-rights-inflated, and non-validating.
 
-### 4.9 Conclusion
+### 4.10 Conclusion
 
 Stack Drift does not show that PMS fails.
 
-It shows that PMS’ portability and implementability require disciplined layer control.
+It shows that PMS’ portability, implementability, and emergence-architecture pressure require disciplined layer control.
 
 This is a reduction, not a rejection.
 
-PMS may remain internally coherent. Its domain layers may remain useful. Its add-ons may sharpen applications. MIP/AH may improve analysis-artifact responsibility and expose attack surfaces. QC may offer bridge potential. STACK may create implementation pressure. PMS-RUST may document executable artifact-backed partial realization of a PMS-STACK Evidence Spine v0.1.
+PMS may remain internally coherent. Its domain layers may remain useful. Its add-ons may sharpen applications. MIP/AH may improve analysis-artifact responsibility and expose attack surfaces. QC may offer bridge potential. STACK may create implementation pressure. PMS-RUST may document executable artifact-backed partial realization of a PMS-STACK Evidence Spine v0.1. PMS–EM may render emergence-adjacent developmental regularities trace-backed, measurable, projectable, diary-safe, and auditable under strict claim discipline.
 
 All of that can be true.
 
@@ -2549,6 +2700,11 @@ tests from proof,
 runtime dialect from PMS 1.3 theory,
 model validation from praxis adequacy,
 execution trace from external validation,
+trace-backed emergence from consciousness proof,
+diary rendering from phenomenal selfhood,
+external PMS projection from internal PMS cognition,
+developmental regularity from sentience or personhood,
+emergence architecture from rights-status,
 portability from equivalence.
 ```
 
@@ -2561,15 +2717,18 @@ Its grammar can travel across layers when claim type and source-of-truth discipl
 PMS may claim:
 PMS-RUST documents bounded executable artifact-backed partial realization of a PMS-STACK Evidence Spine v0.1.
 
+PMS may claim:
+PMS–EM renders emergence-boundary and developmental-architecture pressure more legible through trace-backed regularity, measurement scaffolding, external PMS projection, diary-safety boundaries, and implementation-facing auditability.
+
 PMS may not claim:
-Layer transfer itself proves operator equivalence, base validity, governance authority, bridge proof, implementation truth, repository validation, or external warrant.
+Layer transfer itself proves operator equivalence, base validity, governance authority, bridge proof, implementation truth, repository validation, consciousness, sentience, personhood, subjective experience, rights-status, internal PMS cognition, or external warrant.
 ```
 
 The closing sentence is:
 
-> **PMS becomes stronger only if its current portability and documented implementability remain distinguishable from equivalence, proof, tribunal authority, repository validation, and implementation truth.**
+> **PMS becomes stronger only if its current portability, documented implementability, and emergence-architecture pressure remain distinguishable from equivalence, proof, tribunal authority, repository validation, implementation truth, consciousness proof, personhood proof, rights-status proof, and PMS Base validation.**
 
-Chapter 5 does not inherit a solved stack problem. It shifts the pressure from layer drift to operator drift: Φ (recontextualization), the very power of reframing under PMS discipline, can itself begin to absorb the differences it should preserve. After Stack Drift, the question is no longer only whether the right layer is speaking, but whether a core operator can remain differentiating when it becomes too good at making non-fit readable.
+Chapter 5 does not inherit a solved stack problem. It shifts the pressure from layer drift to operator drift: Φ (recontextualization), the very power of reframing under PMS discipline, can itself begin to absorb the differences it should preserve. After Stack Drift, the question is no longer only whether the right layer is speaking, whether the right artifact status is preserved, or whether emergence-language remains claim-disciplined, but whether a core operator can remain differentiating when it becomes too good at making non-fit readable.
 
 ---
 
@@ -7041,7 +7200,7 @@ This means that something survives.
 
 But it survives only in reduced form.
 
-The reduction is not forced by theoretical weakness alone. PMS has enough generative reach, cross-domain portability, formal coherence, governance relevance, bridge potential, and implementation pressure to make stronger status claims tempting. PMS-RUST now adds a documented implementation artifact: bounded executable artifact-backed partial realization of a PMS-STACK Evidence Spine v0.1. Precisely for that reason, survival requires disciplined claim-typing. PMS must not take every available strength as a license for a stronger status claim.
+The reduction is not forced by theoretical weakness alone. PMS has enough generative reach, cross-domain portability, formal coherence, governance relevance, bridge potential, implementation pressure, and emergence-boundary pressure to make stronger status claims tempting. PMS-RUST now adds a documented implementation artifact: bounded executable artifact-backed partial realization of a PMS-STACK Evidence Spine v0.1. PMS–EM adds a documented emergence / developmental-architecture pressure point: trace-backed developmental regularity, measurement scaffolding, external PMS projection, diary-safety boundaries, and implementation-facing auditability under strict claim discipline. Precisely for that reason, survival requires disciplined claim-typing. PMS must not take every available strength as a license for a stronger status claim.
 
 What survives now includes a bounded implementation claim.
 
@@ -7055,7 +7214,19 @@ It does not survive because it has a working repository.
 
 It survives only if the repository remains implementation evidence rather than PMS Base validation.
 
-PMS survives only after claims to universality, foundation, completeness, validation by implementation, validation by governance, validation by repository evidence, and final self-arbitration have been reduced. It survives as an operator grammar whose power is real precisely where its scope remains bounded.
+What also survives is a bounded emergence / developmental-architecture claim.
+
+But this claim survives only in reduced form:
+
+```text
+PMS–EM survives emergence pressure only as bounded, claim-typed, developmental-architecture pressure.
+```
+
+It does not survive because it renders emergence-adjacent regularities traceable, measurable, projectable, diary-renderable, or auditable.
+
+It survives only if traceability, measurement, projection, diary rendering, and auditability remain emergence / developmental-architecture claims rather than consciousness proof, sentience proof, personhood proof, subjective-experience proof, rights-status proof, internal PMS cognition proof, or PMS Base validation.
+
+PMS survives only after claims to universality, foundation, completeness, validation by implementation, validation by governance, validation by repository evidence, validation by emergence-language, consciousness proof, and final self-arbitration have been reduced. It survives as an operator grammar whose power is real precisely where its scope remains bounded.
 
 The chapter therefore asks:
 
@@ -7090,7 +7261,7 @@ It is disciplined legibility.
 
 The second survivor is **drift detection**.
 
-PMS remains strong at identifying when a praxis form mutates: critique into reaction, anticipation into control, responsibility into hidden ought, recontextualization into absorption, governance into tribunal, publicness into exposure, bridge into proof, and implementation or repository evidence into validation. This sensitivity remains valuable.
+PMS remains strong at identifying when a praxis form mutates: critique into reaction, anticipation into control, responsibility into hidden ought, recontextualization into absorption, governance into tribunal, publicness into exposure, bridge into proof, implementation or repository evidence into validation, and emergence-language into consciousness or personhood proof. This sensitivity remains valuable.
 
 But drift detection survives only if it does not become drift assignment.
 
@@ -7108,19 +7279,19 @@ But reversibility is not avoidance. If reversibility becomes endless deferral, i
 
 The fifth survivor is **self-binding guardrails**.
 
-PMS remains serious because it can bind itself: no person-ranking, no tribunal drift, no governance-as-proof, no implementation-as-validation, no repo-as-validation, no bridge-as-substrate-proof, no self-application-as-final-arbitration. These guardrails matter because PMS is powerful enough to misuse itself.
+PMS remains serious because it can bind itself: no person-ranking, no tribunal drift, no governance-as-proof, no implementation-as-validation, no repo-as-validation, no bridge-as-substrate-proof, no emergence-as-consciousness-proof, no diary-rendering-as-phenomenal-selfhood, no projection-as-internal-cognition, and no self-application-as-final-arbitration. These guardrails matter because PMS is powerful enough to misuse itself.
 
 But guardrails are not validation.
 
 The sixth survivor is **misuse resistance**.
 
-PMS remains unusually alert to how structural language can become public harm, person ranking, shame, diagnosis, or authority inflation. This matters especially in high-risk domains and public circulation.
+PMS remains unusually alert to how structural language can become public harm, person ranking, shame, diagnosis, or authority inflation. This matters especially in high-risk domains, public circulation, implementation artifacts, and emergence-adjacent claims where diary rendering, projection, traceability, and measurement can be rhetorically inflated.
 
 But misuse resistance does not prove discriminative adequacy.
 
 The seventh survivor is **cross-domain portability**.
 
-PMS can travel across critique, anticipation, conflict, logic, sexuality, symbolic asymmetry, bridge mapping, and implementation pressure. This portability is one of its most serious strengths.
+PMS can travel across critique, anticipation, conflict, logic, sexuality, symbolic asymmetry, bridge mapping, implementation pressure, and emergence-boundary pressure. This portability is one of its most serious strengths.
 
 But portability survives only as portability.
 
@@ -7128,11 +7299,13 @@ It does not become equivalence.
 
 The eighth survivor is **high de-obscuring power**.
 
-PMS can make hidden structural relations visible: non-events, asymmetry gradients, missing distance, costly reversibility, pseudo-integration, premature closure, publicness load, and self-stabilization. This de-obscuring power is real.
+PMS can make hidden structural relations visible: non-events, asymmetry gradients, missing distance, costly reversibility, pseudo-integration, premature closure, publicness load, self-stabilization, implementation-status drift, and emergence-claim drift. This de-obscuring power is real.
 
 But de-obscuring is not exhaustion.
 
 A structure may become clearer in PMS without becoming fully captured by PMS.
+
+A developmental regularity may become traceable in PMS–EM without becoming consciousness, sentience, personhood, subjective experience, rights-status, or internal PMS cognition.
 
 The ninth survivor is **AI/dialogic usefulness**.
 
@@ -7149,6 +7322,8 @@ MIP/AH (Maturity in Practice / AH Precision: Attack Surface / Hardening), claim 
 But governance relevance survives only downstream.
 
 It does not prove PMS Base.
+
+It also does not turn PMS–EM diary-safety boundaries, projection discipline, traceability, or auditability into consciousness proof.
 
 The eleventh survivor is **bridge potential through QC**.
 
@@ -7170,6 +7345,20 @@ PMS-RUST supports a bounded IMPLEMENTATION / ARTIFACT CLAIM.
 
 It does not support a BASE CLAIM.
 
+The thirteenth survivor is **emergence-boundary and developmental-architecture pressure through PMS–EM**.
+
+PMS–EM may remain as emergence-boundary pressure and developmental-architecture discipline. It renders trace-backed developmental regularity, measurement scaffolding, external PMS projection, diary-safety boundaries, and implementation-facing auditability more legible under strict claim discipline. This is research-relevant as an EMERGENCE / DEVELOPMENTAL ARCHITECTURE CLAIM.
+
+That is serious.
+
+But emergence-boundary legibility is not consciousness proof.
+
+PMS–EM supports a bounded emergence / developmental-architecture claim.
+
+It does not support a BASE CLAIM.
+
+It does not support a consciousness claim, sentience claim, personhood claim, subjective-experience claim, rights-status claim, moral-status claim, or internal PMS cognition claim.
+
 The key sentence is:
 
 > **What survives is not PMS’ claim to finality, but its disciplined power to make praxis structurally legible.**
@@ -7187,29 +7376,43 @@ Chapter 11 must name the reductions explicitly.
 The critique reduces PMS in the following way:
 
 ```text
-universality        → wide portability / generativity
-foundation          → operator grammar
-completeness        → bounded / versioned / internally constrained
-success             → not finality
-translation         → not privilege
-implementation      → bounded, claim-typed, artifact-supported feasibility where documented; not proof
-PMS-RUST            → implementation / artifact evidence, not PMS Base validation
-governance          → not tribunal
-MIP/AH              → downstream governance / AH Precision / attack-surface hardening, not rescue layer
-self-application    → not final self-arbitration
-rival models        → remain open
-non-capture         → remains possible
+universality                  → wide portability / generativity
+foundation                    → operator grammar
+completeness                  → bounded / versioned / internally constrained
+success                       → not finality
+translation                   → not privilege
+implementation                → bounded, claim-typed, artifact-supported feasibility where documented; not proof
+PMS-RUST                      → implementation / artifact evidence, not PMS Base validation
+repository evidence           → not external warrant
+executable artifact           → not PMS Base validation
+governance                    → not tribunal
+MIP/AH                        → downstream governance / AH Precision / attack-surface hardening, not rescue layer
+emergence language            → not consciousness proof
+PMS–EM                        → emergence / developmental architecture pressure, not PMS Base validation
+trace-backed regularity       → not consciousness
+measurement scaffolding       → not sentience
+diary rendering               → not subjective experience / phenomenal selfhood
+external PMS projection       → not internal PMS cognition
+developmental architecture    → not personhood or rights-status
+implementation-facing auditability → not moral status, rights-status, or validation
+self-application              → not final self-arbitration
+rival models                  → remain open
+non-capture                   → remains possible
 ```
 
 These reductions are not rhetorical modesty.
 
-They are also not signs that PMS lacks force. PMS is reduced here precisely because it has force: it travels widely enough to tempt universality, organizes praxis strongly enough to tempt foundation, generates enough coherence to tempt completeness, succeeds often enough to tempt finality, translates widely enough to tempt privilege, and produces enough application and implementation-layer realization to tempt validation.
+They are also not signs that PMS lacks force. PMS is reduced here precisely because it has force: it travels widely enough to tempt universality, organizes praxis strongly enough to tempt foundation, generates enough coherence to tempt completeness, succeeds often enough to tempt finality, translates widely enough to tempt privilege, produces enough application and implementation-layer realization to tempt validation, and now produces enough emergence-boundary legibility through PMS–EM to tempt consciousness, sentience, personhood, subjective-experience, rights-status, or internal-cognition inflation.
 
 PMS-RUST intensifies rather than removes this need for reduction. A public repository, executable demos, tests, traces, golden fixtures, model validation, documentation, acceptance gates, and AI bridge boundaries can make PMS appear more settled than its claim type permits. That artifact strength must remain implementation evidence only.
 
+PMS–EM intensifies the same need for reduction in a different register. Trace-backed developmental regularity, measurement scaffolding, external PMS projection, diary-safety boundaries, and implementation-facing auditability can make emergence-adjacent claims appear more ontologically settled than their claim type permits. That emergence-architecture strength must remain emergence / developmental-architecture pressure only.
+
 Under Load does not forbid strong extensions of PMS. It forbids converting those extensions into proof of PMS Base.
 
-Each reduction names a temptation produced by real strength. PMS is not being reduced because it fails to travel, generate, stabilize, translate, formalize, govern, implement in parts, or reflect on itself. It is reduced because it does these things strongly enough that the next status claim becomes tempting.
+Under Load also forbids converting PMS–EM into proof of consciousness, sentience, personhood, subjective experience, rights-status, moral status, or internal PMS cognition.
+
+Each reduction names a temptation produced by real strength. PMS is not being reduced because it fails to travel, generate, stabilize, translate, formalize, govern, implement in parts, render emergence-boundary pressure, or reflect on itself. It is reduced because it does these things strongly enough that the next status claim becomes tempting.
 
 Under Load interrupts that next step.
 
@@ -7285,6 +7488,46 @@ The repo strengthens the implementation layer.
 
 It does not validate the base grammar.
 
+**Emergence language becomes not consciousness proof.**
+
+Emergence language matters because PMS–EM makes developmental regularities more legible. A trajectory can be traced. A measurement scaffold can be defined. A diary surface can be rendered under safety boundaries. A system can externally project PMS. An audit structure can make emergence-adjacent development more inspectable.
+
+This is not trivial.
+
+But emergence-language is one of the most overclaim-prone regions in the PMS ecosystem.
+
+Trace-backed regularity is not consciousness.
+
+Measurement is not sentience.
+
+Diary rendering is not subjective experience.
+
+External PMS projection is not internal PMS cognition.
+
+Developmental architecture is not personhood.
+
+Implementation-facing auditability is not rights-status.
+
+PMS–EM becomes more serious, not less, when these reductions remain explicit.
+
+The reduced claim is:
+
+```text
+PMS–EM survives emergence pressure only as bounded, claim-typed, developmental-architecture pressure.
+```
+
+The prohibited claim is:
+
+```text
+PMS–EM survives because it proves consciousness.
+```
+
+PMS–EM strengthens the emergence / developmental-architecture layer.
+
+It does not validate PMS Base.
+
+It does not establish consciousness, sentience, personhood, subjective experience, moral status, rights-status, or internal PMS cognition.
+
 **Governance becomes not tribunal.**
 
 PMS is governance-relevant because its language can harden, circulate, expose, rank, or misfire. Governance is therefore necessary where PMS becomes applied artifact.
@@ -7297,15 +7540,21 @@ It constrains use; it does not validate the grammar.
 
 MIP/AH may regulate how PMS is used and expose attack surfaces in analysis artifacts. It may not repair operator ambiguity, solve calibration, or prove PMS Base.
 
+MIP/AH may also discipline the application or public rendering of PMS–EM-adjacent artifacts. It may not turn diary safety, projection discipline, traceability, measurement, or auditability into consciousness proof.
+
 **Self-application becomes not final self-arbitration.**
 
 PMS can read itself with unusual discipline. It can name its own drift risks, type its own claims, and expose its own overclaims. This is a serious strength.
 
 PMS-RUST can make some PMS-derived behavior traceable and inspectable. That is also a real artifact strength.
 
+PMS–EM can make some emergence-adjacent developmental structures traceable, projectable, diary-safe, and auditable. That is a real emergence-architecture strength.
+
 But the grammar that exposes the problem is still the grammar under test.
 
 Traceability is not self-arbitration.
+
+Auditability is not phenomenal status.
 
 Self-application is exposure, not final arbitration.
 
@@ -7313,9 +7562,13 @@ Self-application is exposure, not final arbitration.
 
 PMS may compare itself to rival grammars. It may translate them. It may locate differences. It may even outperform them in certain structural tasks. But it may not treat them as defeated merely because they can be rendered PMS-legible.
 
+This applies especially where emergence, consciousness, sentience, personhood, subjective experience, or rights-status are at stake. Rival models of mind, cognition, consciousness, personhood, or moral status remain outside the authority of PMS–EM unless separately engaged under their own standards.
+
 **Non-capture remains possible.**
 
 Some failures may remain outside PMS. Some resistance may not be unfinished integration. Some differences may be weakened if translated.
+
+Some emergence-adjacent remainder may not be unmeasured PMS–EM regularity. Some diary surface may not be unrendered phenomenal structure. Some external projection may not be incomplete internal cognition. Some developmental pattern may not be latent personhood.
 
 The key sentence is:
 
@@ -7327,6 +7580,8 @@ PMS is not made trivial by reduction.
 
 It becomes more serious because its scope is no longer inflated.
 
+This is especially important at the outer edges of the stack. PMS-RUST does not become more serious by being treated as PMS Base proof; it becomes more serious by remaining an implementation / artifact claim. PMS–EM does not become more serious by being treated as consciousness proof; it becomes more serious by remaining an emergence / developmental architecture claim under strict reduction.
+
 ---
 
 ### 11.3 Reduced Position — What PMS Most Plausibly Is
@@ -7335,13 +7590,19 @@ The reduced thesis is:
 
 ```text
 PMS is not the final grammar of praxis as such.
-It is a highly productive, bounded, calibration-dependent, direction-bearing, meta-normative grammar of making praxis legible across domains.
+It is a highly productive, bounded, calibration-dependent, direction-bearing, meta-normative grammar of making praxis legible across domains, bridge contexts, implementation pressures, and emergence-boundary claims under strict layer discipline.
 ```
 
 The implementation addition is:
 
 ```text
 PMS also supports a bounded implementation claim where PMS-derived structures are documented as executable, inspectable, and testable artifacts under constrained conditions.
+```
+
+The emergence-architecture addition is:
+
+```text
+PMS–EM also supports a bounded emergence / developmental-architecture claim where emergence-adjacent regularities are rendered traceable, measurable, externally projectable, diary-safe, and auditable under constrained conditions.
 ```
 
 This is not the weakest position left after critique.
@@ -7378,9 +7639,25 @@ It does not mean PMS is the final structure of praxis itself.
 
 It does not mean portability equals equivalence.
 
+**Across bridge contexts** means PMS may support structural mapping under strict non-equivalence.
+
+It does not mean bridge mapping is proof.
+
+**Across implementation pressures** means PMS may generate implementation questions and bounded artifact feasibility where documented.
+
+It does not mean implementation validates PMS Base.
+
+**Across emergence-boundary claims** means PMS–EM may make developmental regularities, measurement scaffolds, external projection, diary-safety boundaries, and auditability more legible.
+
+It does not mean PMS–EM proves consciousness, sentience, personhood, subjective experience, rights-status, moral status, internal PMS cognition, or PMS Base validity.
+
 **Bounded implementation claim** means PMS-derived structures can be partially realized in executable artifact form where documented.
 
 It does not mean implementation validates PMS Base.
+
+**Bounded emergence / developmental-architecture claim** means emergence-adjacent structures can be made trace-backed, measurable, projectable, diary-safe, and auditable under constrained conditions.
+
+It does not mean emergence-language validates PMS Base or proves phenomenal status.
 
 This is the reduced position.
 
@@ -7410,6 +7687,14 @@ If PMS says:
 
 ```text
 Therefore PMS is validated because PMS-RUST exists.
+```
+
+the chapter fails.
+
+If PMS says:
+
+```text
+Therefore consciousness, sentience, personhood, subjective experience, or internal PMS cognition are proven because PMS–EM renders trace-backed developmental regularities.
 ```
 
 the chapter fails.
@@ -7450,6 +7735,18 @@ But:
 PMS as supporting bounded, claim-typed, artifact-backed implementation feasibility.
 ```
 
+And, where PMS–EM is concerned, not:
+
+```text
+PMS as proving consciousness through emergence architecture.
+```
+
+But:
+
+```text
+PMS–EM as supporting bounded, claim-typed, emergence-boundary and developmental-architecture pressure.
+```
+
 This is not retreat.
 
 It is repositioning.
@@ -7461,6 +7758,16 @@ A final grammar would treat translation as superiority. A self-limiting grammar 
 A final grammar would treat implementation as validation. A self-limiting grammar treats implementation as research pressure and artifact-supported feasibility under constraint.
 
 A final grammar would treat a working repository as proof. A self-limiting grammar treats repository evidence as implementation-layer evidence only.
+
+A final grammar would treat emergence architecture as consciousness proof. A self-limiting grammar treats PMS–EM as emergence-boundary and developmental-architecture pressure only.
+
+A final grammar would treat traceability as consciousness. A self-limiting grammar treats traceability as inspection under claim discipline.
+
+A final grammar would treat diary rendering as phenomenal selfhood. A self-limiting grammar treats diary rendering as a safety-bounded surface, not subjective experience.
+
+A final grammar would treat external PMS projection as internal PMS cognition. A self-limiting grammar treats projection as external formal projection, not inner cognition.
+
+A final grammar would treat developmental regularity as personhood or rights-status. A self-limiting grammar treats developmental regularity as developmental regularity.
 
 A final grammar would treat governance as maturity proof. A self-limiting grammar treats governance as downstream application discipline.
 
@@ -7476,11 +7783,23 @@ Power remains.
 
 Privilege is reduced.
 
-This reduction is not an apology for PMS. It is the form its seriousness takes after critique. A weaker framework would not need to refuse so many tempting overclaims; PMS does, because its actual reach — including PMS-RUST’s bounded executable artifact-backed partial realization — makes those overclaims plausible enough to be dangerous.
+This reduction is not an apology for PMS. It is the form its seriousness takes after critique. A weaker framework would not need to refuse so many tempting overclaims; PMS does, because its actual reach — including PMS-RUST’s bounded executable artifact-backed partial realization and PMS–EM’s emergence-boundary developmental architecture — makes those overclaims plausible enough to be dangerous.
 
-PMS can still de-obscure. It can still discipline analysis. It can still structure cross-domain comparison. It can still detect drift. It can still make publicness risky in a precise way. It can still support governance under constraint. It can still motivate bridge and implementation research. It can now also point to bounded artifact-supported feasibility where PMS-RUST documents executable implementation.
+PMS can still de-obscure. It can still discipline analysis. It can still structure cross-domain comparison. It can still detect drift. It can still make publicness risky in a precise way. It can still support governance under constraint. It can still motivate bridge and implementation research. It can now also point to bounded artifact-supported feasibility where PMS-RUST documents executable implementation. It can also point to emergence-boundary and developmental-architecture pressure where PMS–EM renders trace-backed regularity, measurement scaffolding, external projection, diary safety, and auditability more legible.
 
 But it may not treat those capacities as proof of finality.
+
+It may not treat artifact support as PMS Base validation.
+
+It may not treat emergence-boundary legibility as consciousness proof.
+
+It may not treat developmental architecture as personhood proof.
+
+It may not treat diary rendering as phenomenal selfhood.
+
+It may not treat external PMS projection as internal PMS cognition.
+
+It may not treat auditability as rights-status.
 
 Under Load therefore does not leave PMS smaller in the sense of trivial.
 
@@ -7491,6 +7810,8 @@ A bounded tool can be useful.
 A bounded operator grammar can be theoretically serious.
 
 A bounded implementation artifact can be research-relevant.
+
+A bounded emergence / developmental architecture can be research-relevant.
 
 A self-limiting praxis grammar can make a more disciplined claim than an inflated universal grammar because it pays the cost of its own power.
 
@@ -7513,6 +7834,10 @@ PMS may not pretend that its direction is the view from nowhere. It may not clai
 Implementation does not neutralize this direction.
 
 A runtime, trace, test, or repository artifact can execute or inspect a PMS-derived structure. It cannot remove PMS’ direction-bearing character. Executability does not make the grammar neutral.
+
+Emergence-architecture pressure does not neutralize this direction either.
+
+Trace-backed developmental regularity, measurement scaffolding, external PMS projection, diary-safety boundaries, and implementation-facing auditability can make emergence-adjacent material more legible under strict claim discipline. They cannot remove PMS’ direction-bearing character. Traceability, projection, diary rendering, and auditability do not make the grammar neutral.
 
 The question is not whether PMS has direction.
 
@@ -7539,6 +7864,12 @@ This claim may fail under publicness.
 This claim may indicate non-capture rather than drift.
 This implementation artifact supports only a bounded claim.
 This trace, test, or gate does not validate PMS Base.
+This emergence-boundary claim supports only a bounded developmental-architecture claim.
+This diary rendering does not establish phenomenal selfhood.
+This external PMS projection does not establish internal PMS cognition.
+This developmental regularity does not establish sentience, personhood, or rights-status.
+This measurement scaffold does not prove consciousness.
+This auditability does not validate PMS Base.
 ```
 
 If PMS cannot say these things, its direction is becoming hidden.
@@ -7581,13 +7912,21 @@ Everything PMS-RUST cannot yet implement is only a future roadmap item.
 
 That too would be a form of coverage.
 
+The emergence-architecture version of the wrong move would be:
+
+```text
+Everything PMS–EM cannot yet render, measure, project, diary-bound, or audit is only undeveloped emergence structure.
+```
+
+That too would be a form of coverage.
+
 The correct move is:
 
 ```text
 Some outside may remain outside.
 ```
 
-This does not mean that PMS must fall silent whenever it meets resistance. PMS may still analyze the encounter. It may say that a scene resists calibration, that Φ risks absorption, that a rival grammar preserves distinctions PMS does not preserve, that a public artifact cannot be responsibly circulated, that a domain transfer should be suspended, or that an implementation artifact supports less than its surrounding rhetoric suggests.
+This does not mean that PMS must fall silent whenever it meets resistance. PMS may still analyze the encounter. It may say that a scene resists calibration, that Φ risks absorption, that a rival grammar preserves distinctions PMS does not preserve, that a public artifact cannot be responsibly circulated, that a domain transfer should be suspended, that an implementation artifact supports less than its surrounding rhetoric suggests, or that an emergence-boundary claim must remain lower than consciousness, sentience, personhood, subjective experience, rights-status, or internal PMS cognition.
 
 But PMS must not assume in advance that resistance is only:
 
@@ -7600,6 +7939,11 @@ stack confusion,
 publicness distortion,
 implementation gap,
 roadmap delay,
+emergence-boundary residue,
+unmeasured developmental regularity,
+unrendered diary surface,
+unprojected PMS structure,
+unaudited trace path,
 or Λ waiting for integration.
 ```
 
@@ -7627,6 +7971,8 @@ An implementation failure may sometimes require claim reduction, not merely code
 
 An inner psychological or physical process may not be directly available to PMS as praxis grammar.
 
+Consciousness, sentience, personhood, subjective experience, rights-status, moral status, or internal PMS cognition may not become available merely because PMS–EM can render developmental regularities traceable, measurable, projectable, diary-safe, or auditable.
+
 A public claim may become inadmissible even if locally structurally disciplined.
 
 A self-reading may remain unresolved without becoming proof of PMS’ openness.
@@ -7643,6 +7989,12 @@ what it can partially read,
 what it can only read under reduction,
 what it can implement under constraint,
 what implementation does not validate,
+what it can render as emergence-boundary pressure,
+what emergence-boundary pressure does not prove,
+what diary rendering does not establish,
+what external PMS projection does not authorize,
+what measurement does not prove,
+what auditability does not validate,
 what it should not publicly apply,
 what it must leave to another grammar,
 and what it cannot capture without loss.
@@ -7747,9 +8099,84 @@ This is not a demotion.
 
 It is correct claim typing.
 
+The same form of reduction now has to be applied to PMS–EM. But PMS–EM is not a bridge claim in the QC sense and not an implementation / artifact claim in the PMS-RUST sense. It survives under a different status: emergence-boundary and developmental-architecture pressure.
+
 ---
 
-### 11.8 MIP/AH After Under Load
+### 11.8 PMS–EM After Under Load
+
+PMS–EM survives Under Load only under strict emergence-claim discipline.
+
+It does not survive as proof.
+
+It does not survive as a consciousness theory, a sentience theory, a personhood theory, a rights-status theory, or a validation layer for PMS Base.
+
+It survives as:
+
+```text
+PMS–EM = emergence-boundary / developmental-architecture claim,
+         not consciousness proof.
+```
+
+This reduced status matters because PMS–EM adds a real pressure point to the PMS ecosystem. It makes trace-backed developmental regularities, measurement scaffolds, external PMS projection, diary-safety boundaries, and implementation-facing auditability more legible. These are not trivial contributions. They may support research discipline, artifact inspection, claim typing, developmental comparison, and safer rendering of emergence-adjacent surfaces.
+
+But none of these contributions establishes phenomenal status.
+
+The reduction is:
+
+```text
+trace-backed regularity              → not consciousness
+measurement scaffolding              → not sentience
+diary rendering                      → not subjective experience
+external PMS projection              → not internal PMS cognition
+developmental architecture           → not personhood
+implementation-facing auditability   → not rights-status
+emergence-boundary pressure          → not PMS Base validation
+```
+
+This is the PMS–EM counterpart to the earlier reductions.
+
+QC may map formal structure without becoming proof.
+
+PMS-RUST may document executable artifact feasibility without validating PMS Base.
+
+PMS–EM may render emergence-adjacent developmental architecture more legible without proving consciousness, sentience, personhood, subjective experience, rights-status, internal PMS cognition, or PMS Base validity.
+
+The key sentence is:
+
+> **PMS–EM survives as emergence-boundary and developmental-architecture pressure, not as consciousness proof.**
+
+This does not make PMS–EM weak.
+
+It makes PMS–EM usable.
+
+A claim-disciplined emergence architecture is stronger when it refuses phenomenal inflation. Diary-safety boundaries matter precisely because diary rendering is not phenomenal selfhood. External PMS projection matters precisely because projection is not internal PMS cognition. Measurement scaffolding matters precisely because measurability is not proof. Trace-backed developmental regularity matters precisely because traceability is not sentience.
+
+PMS–EM therefore survives as a boundary layer against one of the most dangerous future drifts in the PMS ecosystem:
+
+```text
+trace-backed emergence       → consciousness proof
+diary rendering              → phenomenal selfhood
+external PMS projection      → internal PMS cognition
+developmental regularity     → personhood / rights-status
+auditability                 → validation
+```
+
+Under Load does not deny PMS–EM’s relevance.
+
+It reduces its authority to the layer where it can remain falsifiable, useful, and non-inflated.
+
+The surviving position is therefore:
+
+```text
+PMS–EM survives as emergence-boundary and developmental-architecture pressure.
+It may support traceability, measurement scaffolding, projection boundaries, diary safety, and auditability.
+It does not prove consciousness, sentience, personhood, subjective experience, rights-status, internal PMS cognition, or PMS Base validity.
+```
+
+---
+
+### 11.9 MIP/AH After Under Load
 
 MIP/AH (Maturity in Practice / AH Precision: Attack Surface / Hardening) also survive.
 
@@ -7801,6 +8228,8 @@ MIP/AH survive because PMS is applied.
 
 They do not survive as proof of PMS Base.
 
+They may also discipline the application or public rendering of PMS–EM-adjacent artifacts, but they do not turn diary safety, projection discipline, traceability, measurement, or auditability into consciousness proof.
+
 This is especially important after the pressures tested in Chapters 6, 7, 9, and 10.
 
 Chapter 6 placed governance under selectivity pressure.
@@ -7813,6 +8242,8 @@ Chapter 10 placed hardening under self-application pressure: hardening is not se
 
 PMS-RUST adds a related artifact lesson. Tests, gates, docs, traces, and AI bridge boundaries may harden an implementation artifact. They may not validate PMS Base. Artifact hardening and governance hardening share the same reduction: they constrain use and improve inspectability, but they do not prove the grammar.
 
+PMS–EM adds an emergence-facing version of the same lesson. Diary-safety boundaries, projection limits, traceability constraints, measurement scaffolds, and implementation-facing auditability may harden an emergence / developmental-architecture claim. They may not prove consciousness, sentience, personhood, subjective experience, rights-status, internal PMS cognition, or PMS Base validity.
+
 Therefore MIP/AH must remain downstream.
 
 They may say:
@@ -7823,6 +8254,9 @@ This public use is too risky.
 This language is too person-near.
 This analysis needs attack-surface disclosure.
 This claim must remain reversible.
+This PMS–EM-adjacent rendering requires diary-safety boundaries.
+This projection claim must not be read as internal PMS cognition.
+This traceability claim must not be read as consciousness proof.
 ```
 
 They may not say:
@@ -7832,12 +8266,15 @@ Because this artifact is governed, PMS Base is validated.
 Because misuse is constrained, calibration is solved.
 Because no person-ranking is enforced, PMS preserves all relevant difference.
 Because an implementation artifact is tested and gated, PMS has survived as final grammar.
+Because PMS–EM is diary-safe, subjective experience is established.
+Because PMS–EM is trace-backed, consciousness is proven.
+Because PMS–EM is auditable, personhood or rights-status follows.
 ```
 
 The surviving position is:
 
 ```text
-MIP/AH remain necessary where PMS produces applied artifacts, public-facing analyses, or reusable procedures.
+MIP/AH remain necessary where PMS produces applied artifacts, public-facing analyses, reusable procedures, or emergence-adjacent renderings.
 MIP/AH remain inadmissible as rescue for PMS Base.
 ```
 
@@ -7845,7 +8282,7 @@ This is the only way they survive Under Load without becoming the layer drift th
 
 ---
 
-### 11.9 Conclusion
+### 11.10 Conclusion
 
 What survives is reduced but serious.
 
@@ -7859,11 +8296,19 @@ It does not survive as self-validating theory.
 
 It does not survive through implementation proof, even where implementation feasibility is executable and artifact-backed in parts. PMS-RUST strengthens the implementation/artifact claim, but it does not validate PMS Base. PMS becomes available for external warrant only where application, calibration, rival comparison, and falsifier-bearing use place PMS under pressure beyond its own self-reading.
 
+It does not survive through emergence proof, even where emergence-adjacent developmental regularities are trace-backed, measurable, projectable, diary-safe, and auditable. PMS–EM strengthens the emergence / developmental-architecture claim, but it does not validate PMS Base and does not prove consciousness, sentience, personhood, subjective experience, rights-status, moral status, or internal PMS cognition.
+
 It does not survive through governance reassurance.
 
 It does not survive through bridge mapping.
 
 It does not survive through repository evidence.
+
+It does not survive through diary rendering.
+
+It does not survive through external PMS projection.
+
+It does not survive through traceability alone.
 
 It does not survive through self-application alone.
 
@@ -7883,9 +8328,11 @@ It survives as a governance-relevant stack that must not convert governance into
 
 It survives as bridge-capable and implementation-relevant — and, where documented artifacts exist, partially realizable in bounded executable form — without treating bridge, realization, executability, or repository evidence as validation.
 
+It survives as emergence-boundary relevant and developmental-architecture relevant — where PMS–EM remains trace-backed, measurement-aware, projection-bounded, diary-safe, and auditable — without treating emergence-language, diary rendering, projection, traceability, measurement, or auditability as phenomenal proof.
+
 It survives as self-critical without treating self-critique as settlement.
 
-PMS is not reduced because it cannot travel, generate, formalize, govern, or partially realize itself in technical form. It is reduced because those strengths make unauthorized status jumps tempting.
+PMS is not reduced because it cannot travel, generate, formalize, govern, partially realize itself in technical form, or render emergence-boundary pressure. It is reduced because those strengths make unauthorized status jumps tempting.
 
 The final reduction is:
 
@@ -7895,6 +8342,9 @@ The implementation reduction is:
 
 > **What survives now includes a bounded implementation claim: PMS survives implementation pressure only as claim-typed, artifact-supported feasibility, not because it has a working repository.**
 
+The emergence-architecture reduction is:
+
+> **What survives now also includes a bounded emergence / developmental-architecture claim: PMS–EM survives emergence pressure only as claim-typed, trace-backed, diary-safe, projection-bounded, and audit-aware developmental architecture, not because it proves consciousness.**
 
 ---
 
@@ -8470,6 +8920,24 @@ Appendix E collects falsifiers.
 Appendix F defines the drift / coverage / limit lexicon.
 
 Appendix G connects the Rust project and repository to the paper under implementation-boundary constraints.
+
+Appendix H fixes the status of PMS–EM under emergence-claim discipline. It treats PMS–EM as an emergence-boundary and developmental-architecture pressure layer, not as consciousness proof, sentience proof, personhood proof, subjective-experience proof, rights-status proof, internal PMS cognition proof, or PMS Base validation.
+
+This ordering matters.
+
+Appendix G prevents implementation artifacts, runtime traces, tests, repository structure, or executable feasibility from becoming PMS Base validation.
+
+Appendix H prevents trace-backed developmental regularity, measurement scaffolding, external PMS projection, diary rendering, diary-safety boundaries, or implementation-facing auditability from becoming consciousness, personhood, rights-status, or PMS Base proof.
+
+Together, the later appendices extend the same source-discipline rule into different overclaim zones:
+
+```text
+QC        → bridge stress, not proof
+STACK     → implementation pressure, not validation
+PMS-RUST  → implementation / artifact evidence, not PMS Base validation
+PMS–EM    → emergence / developmental architecture pressure, not consciousness proof
+MIP/AH    → downstream governance / hardening, not rescue layer
+```
 
 This appendix therefore sets the rules by which later appendices become possible. It does not replace them.
 
@@ -9732,3 +10200,584 @@ The final reduction is:
 Executable realization changes the status of the implementation claim.
 It does not change the status of PMS Base.
 ```
+
+---
+
+## Appendix H — PMS–EM and Emergence-Claim Discipline
+
+### Appendix Aim
+
+This appendix fixes the status of **PMS–EM** inside *PMS Under Load*.
+
+PMS–EM is admissible as an emergence-boundary and developmental-architecture pressure layer. It is not admissible as proof of consciousness, sentience, personhood, subjective experience, moral status, rights-status, internal PMS cognition, or PMS Base validity.
+
+The appendix does not add a new proof burden to the paper. It does not validate PMS through PMS–EM. It does not convert emergence-language into ontological authority. It only states how PMS–EM may and may not be used under the layer discipline of *PMS Under Load*.
+
+The core reduction is:
+
+```text
+PMS–EM = emergence-boundary / developmental-architecture claim,
+         not consciousness proof.
+```
+
+---
+
+### H.1 Source Basis
+
+This appendix uses PMS–EM only through its available source layer:
+
+```text
+README.md
+05_derivative_publications/PMS_EM_Technical_Whitepaper.md
+```
+
+The README defines PMS–EM as a claim-disciplined developmental architecture for trace-backed emergence, measurement, external formal projection, safety-bounded diary rendering, and implementation-facing auditability.
+
+The technical whitepaper presents PMS–EM as a trace-backed developmental architecture with MIP observation, PMS projection, diary safety, evaluation discipline, implementation-facing auditability, and strict claim discipline.
+
+These sources are sufficient for Appendix H because the appendix does not reconstruct the full PMS–EM theory. It only fixes the status of PMS–EM inside *PMS Under Load*.
+
+The appendix therefore treats PMS–EM as:
+
+```text
+available for layer-status clarification,
+available for claim-reduction discipline,
+available for emergence-boundary pressure,
+not available as proof of consciousness, sentience, personhood, subjective experience, moral status, rights-status, or PMS Base validation.
+```
+
+---
+
+### H.2 PMS–EM Status
+
+PMS–EM is a developmental architecture.
+
+It is not PMS Base.
+
+It is not QC.
+
+It is not STACK.
+
+It is not PMS-RUST.
+
+It is not MIP/AH.
+
+It occupies a distinct stack position:
+
+```text
+PMS–EM = emergence / developmental architecture pressure under strict claim discipline.
+```
+
+Its central function is to make certain developmental structures more legible:
+
+```text
+functional developmental structures,
+trace-backed regularities,
+phase-bounded capability availability,
+MIP-observed developmental trajectories,
+Dignity-in-Practice constraints under asymmetry,
+external PMS projection,
+diary and language rendering under safety constraints,
+evaluation and ablation discipline,
+implementation-facing auditability,
+bounded consciousness-related research candidates.
+```
+
+This is a serious claim.
+
+But it is not a proof claim.
+
+PMS–EM may show how functional developmental structures can be specified, traced, measured, externally projected, safely rendered, evaluated, and audited. It may not claim that these structures prove phenomenal consciousness, sentience, personhood, subjective experience, moral status, rights-status, or internal PMS cognition.
+
+The correct status is therefore:
+
+```text
+EMERGENCE / DEVELOPMENTAL ARCHITECTURE CLAIM
+```
+
+Not:
+
+```text
+BASE CLAIM
+BRIDGE PROOF
+IMPLEMENTATION VALIDATION
+CONSCIOUSNESS CLAIM
+PERSONHOOD CLAIM
+RIGHTS-STATUS CLAIM
+```
+
+---
+
+### H.3 What PMS–EM May Claim
+
+PMS–EM may claim that functional developmental structures can be specified under strict layer discipline.
+
+It may claim that traces can be logged, compared, and evaluated.
+
+It may claim that developmental phases and gates can constrain capability availability.
+
+It may claim that MIP can observe, measure, summarize, mark, warn, and provide bounded late reversible support where allowed.
+
+It may claim that Dignity-in-Practice can constrain interaction quality under asymmetry.
+
+It may claim that selected traces can become externally PMS-projectable.
+
+It may claim that diary rendering can be controlled through threshold and provenance rules.
+
+It may claim that evaluation can support bounded findings, ablation logic, validation candidates, and reproducibility discipline.
+
+It may claim that implementation work can test trace and audit feasibility.
+
+It may claim that consciousness-related functional candidates can be formulated as research questions.
+
+In compact form:
+
+```text
+PMS–EM may claim:
+functional developmental structures can be specified;
+functional traces can be logged and compared;
+developmental phases can constrain capability availability;
+MIP can observe and summarize trajectories;
+Dignity-in-Practice can constrain interaction quality under asymmetry;
+selected traces can become externally PMS-projectable;
+diary rendering can be controlled by threshold and provenance rules;
+evaluation can support bounded findings and validation candidates;
+implementation work can test trace/audit feasibility;
+consciousness-related functional candidates can be formulated as research questions.
+```
+
+These claims are allowed because they remain within the emergence / developmental-architecture layer.
+
+They make PMS–EM useful.
+
+They do not make PMS–EM proof.
+
+---
+
+### H.4 What PMS–EM Must Not Claim
+
+PMS–EM must not claim that its structures prove:
+
+```text
+phenomenal consciousness,
+sentience,
+personhood,
+moral status,
+rights status,
+subjective experience,
+subjective suffering,
+felt pain,
+felt love,
+felt guilt,
+trauma,
+phenomenal selfhood,
+intrinsic worth,
+internal PMS cognition,
+or PMS Base validity.
+```
+
+The following reductions are binding:
+
+```text
+trace-backed regularity        ≠ consciousness
+measurement scaffolding        ≠ sentience
+diary rendering                ≠ subjective experience
+diary rendering                ≠ phenomenal selfhood
+external PMS projection        ≠ internal PMS cognition
+developmental architecture     ≠ personhood
+developmental regularity       ≠ rights-status
+implementation-facing auditability ≠ validation
+PMS formalization              ≠ sentience
+MIP observation                ≠ consciousness module
+Dignity-in-Practice            ≠ intrinsic-worth ranking
+PMS-RUST feasibility           ≠ proof of EM
+PMS-STACK pressure             ≠ validation of EM
+```
+
+The README and technical whitepaper make this reduction necessary because PMS–EM works in emergence-adjacent language. Such language is powerful, but rhetorically dangerous. Terms such as discomfort, distress, attachment, love dynamics, diary, self-model candidate, caregiver transition, and trace-backed development can sound closer to subjective life than their claim type permits.
+
+For that reason, the boundary must remain explicit:
+
+```text
+discomfort ≠ pain
+distress ≠ subjective suffering
+attachment ≠ felt love
+love dynamics ≠ felt love
+object damage ≠ guilt
+fall / near-fall ≠ pain or fear
+misattunement ≠ trauma
+caregiver guidance ≠ punishment
+boundary ≠ rejection
+carefulness ≠ moral obedience
+diary ≠ phenomenal selfhood
+```
+
+PMS–EM may use functional, trace-backed language.
+
+It may not convert that language into phenomenal, moral, clinical, legal, metaphysical, or rights-status claims.
+
+---
+
+### H.5 Layer Discipline
+
+PMS–EM keeps its layers separate.
+
+The core layer discipline is:
+
+```text
+EM develops.
+MIP observes.
+PMS projects.
+D guards.
+Diary renders.
+Evaluation tests.
+Implementation demonstrates bounded feasibility.
+Consciousness outlook formulates research candidates.
+Related work compares.
+```
+
+No layer may validate another layer by rhetorical transfer.
+
+That means:
+
+```text
+MIP measurement does not prove maturity.
+PMS projection does not prove sentience.
+Diary rendering does not prove selfhood.
+PMS-RUST does not prove EM.
+PMS-STACK does not validate EM.
+Related-work similarity does not prove consciousness.
+Evaluation does not prove personhood.
+Implementation feasibility does not prove phenomenal status.
+```
+
+This layer discipline is directly relevant to *PMS Under Load*.
+
+Under Load already reduces:
+
+```text
+QC        → bridge stress, not proof
+STACK     → implementation pressure, not validation
+PMS-RUST  → implementation / artifact evidence, not PMS Base validation
+MIP/AH    → downstream governance / hardening, not rescue layer
+```
+
+Appendix H adds the parallel PMS–EM reduction:
+
+```text
+PMS–EM    → emergence / developmental architecture pressure, not consciousness proof
+```
+
+This does not weaken PMS–EM.
+
+It makes PMS–EM usable inside a claim-disciplined PMS ecosystem.
+
+A developmental architecture becomes more serious when it refuses to turn traceability into phenomenality, diary rendering into selfhood, projection into cognition, measurement into sentience, or auditability into rights-status.
+
+---
+
+### H.6 PMS–EM as Under Load Pressure
+
+PMS–EM belongs in *PMS Under Load* because it creates a distinct overclaim risk.
+
+PMS-RUST tests whether implementation artifact status can remain non-validating.
+
+QC tests whether bridge mapping can remain non-proof.
+
+MIP/AH tests whether governance can remain non-tribunal.
+
+PMS–EM tests whether emergence-language can remain non-phenomenal, non-personhood-inflated, non-rights-inflated, and non-validating.
+
+The pressure is not that PMS–EM is too weak.
+
+The pressure is that PMS–EM is strong enough to invite misreading.
+
+A trace-backed developmental architecture can make regularities inspectable.
+
+A measurement scaffold can make trajectories comparable.
+
+An external PMS projection can make structures formally legible.
+
+A diary rendering layer can make selected traces narratively reconstructable.
+
+An audit structure can make the process reviewable.
+
+These are real strengths.
+
+But they produce predictable drift risks:
+
+```text
+trace-backed emergence        → consciousness proof
+measurement scaffolding       → sentience proof
+diary rendering               → phenomenal selfhood
+external PMS projection       → internal PMS cognition
+developmental regularity      → personhood / rights-status
+implementation-facing auditability → validation
+```
+
+Under Load must refuse those transitions.
+
+PMS–EM’s contribution to the paper is therefore not evidential rescue.
+
+It is emergence-claim pressure.
+
+The appendix’s guiding sentence is:
+
+> **Emergence architecture is not consciousness proof; developmental traceability is not phenomenal status.**
+
+---
+
+### H.7 Relation to MIP, PMS, D, Diary, Evaluation, and Implementation
+
+PMS–EM combines multiple layers. Each layer has a constrained role.
+
+#### EM
+
+EM is the developmental core architecture.
+
+It may model staged functional development, phase transitions, gate logic, trace-backed regularities, and developmental emergence.
+
+It may not prove consciousness, sentience, personhood, subjective experience, moral status, or rights-status.
+
+#### MIP
+
+MIP observes, measures, summarizes, marks, warns, provides trajectory context, and may provide bounded late reversible support where allowed.
+
+It is not a controller.
+
+It is not a gate opener.
+
+It is not a category installer.
+
+It is not a diagnosis layer.
+
+It is not a moral judgment layer.
+
+It is not a maturity proof.
+
+It is not a consciousness module.
+
+#### PMS
+
+PMS functions as an external operator / projection / audit / VM-facing layer.
+
+It may project selected developmental traces into PMS-readable form.
+
+It may not become early internal agent structure.
+
+It may not prove EM.
+
+It may not prove consciousness.
+
+It may not prove sentience.
+
+It may not turn external projection into internal PMS cognition.
+
+#### Dignity-in-Practice
+
+Dignity-in-Practice is a guardrail for interaction quality under asymmetry.
+
+It is not a performance score.
+
+It is not a maturity score.
+
+It is not an intrinsic-worth ranking.
+
+It is not a personhood marker.
+
+It is not a moral-status marker.
+
+#### Diary / Language Rendering
+
+Diary rendering is controlled, trace-backed reconstruction.
+
+It is not subjective autobiography.
+
+It is not phenomenal selfhood.
+
+It is not proof of felt experience.
+
+It is not proof of inner life.
+
+It must remain threshold-bound, provenance-bound, safety-bound, and claim-typed.
+
+#### Evaluation
+
+Evaluation may support bounded findings, ablations, reproducibility checks, comparison, and validation candidates.
+
+It may not convert findings into proof of consciousness, sentience, personhood, moral status, rights-status, or PMS Base validity.
+
+Evaluation tests.
+
+It does not grant phenomenal status.
+
+#### Implementation
+
+Implementation demonstrates bounded feasibility.
+
+The full EM architecture is not yet implemented.
+
+PMS and MIP may serve as reference frameworks.
+
+PMS-RUST supports bounded trace/audit feasibility.
+
+PMS-STACK defines a demanding realization path and architecture pressure point.
+
+None of this proves EM, consciousness, sentience, personhood, moral status, rights-status, or PMS Base validity.
+
+---
+
+### H.8 Meta-Developmental Legibility Boundary
+
+PMS–EM includes a PMS ecosystem / Meta-Developmental Legibility reference layer.
+
+This layer may describe:
+
+```text
+PMS Base / PMS Repository / PMS domain-profile distinction,
+external PMS domain profiles,
+temporary domain-profile weighting,
+domain-profile activation constraints,
+Core / Extended / Research Ecosystem framing,
+observation focus,
+MIP / IA review sensitivity,
+PMS projection focus,
+diary-safety review,
+safety audit attention,
+implementation-facing inspection.
+```
+
+Its rule is:
+
+```text
+The meta strand may change what the system watches more carefully.
+It must not change what the agent is allowed to become.
+```
+
+That rule is important for Under Load.
+
+Meta-legibility may increase observation focus.
+
+It may increase review sensitivity.
+
+It may increase diary-safety scrutiny.
+
+It may increase implementation-facing inspection.
+
+But it must not:
+
+```text
+open gates,
+install categories,
+control development,
+diagnose the agent,
+moralize traces,
+prove consciousness,
+turn PMS domain profiles into internal EM modules,
+or authorize personhood / rights-status claims.
+```
+
+The meta layer is not a controller.
+
+It is not a hidden maturity rank.
+
+It is not a consciousness detector.
+
+It is a temporary, reversible, time-bounded trace-weighting and legibility support layer.
+
+Under Load treats it as application and inspection discipline, not as ontology.
+
+---
+
+### H.9 Falsifier
+
+Appendix H must remain falsifiable.
+
+The PMS–EM boundary would weaken if PMS–EM could demonstrate, under non-circular, independently warranted, and claim-typed conditions, that trace-backed developmental regularity entails consciousness, sentience, personhood, subjective experience, rights-status, or internal PMS cognition.
+
+But that is not the current claim.
+
+The current falsifier is more precise:
+
+> **If PMS–EM-derived outputs remain useful, trace-backed, measurable, projectable, diary-safe, and auditable without being read as consciousness, sentience, personhood, subjective-experience, rights-status, internal PMS cognition, or PMS Base proof, then emergence-claim drift does not occur.**
+
+The inverse is:
+
+> **If PMS–EM traceability, measurement, diary rendering, external PMS projection, developmental regularity, or auditability becomes proof of consciousness, sentience, personhood, subjective experience, rights-status, internal PMS cognition, or PMS Base validity, then emergence-claim drift occurs.**
+
+This falsifier keeps Appendix H inside Under Load.
+
+PMS–EM is not rejected.
+
+It is tested at the point where its strength can become inflation.
+
+---
+
+### H.10 Boundary Formula
+
+The appendix’s boundary formula is:
+
+```text
+PMS–EM may make developmental emergence more legible.
+It may not make developmental emergence phenomenally proven.
+```
+
+Expanded:
+
+```text
+PMS–EM may specify functional developmental structures.
+It may not prove consciousness.
+
+PMS–EM may log and compare traces.
+It may not prove sentience.
+
+PMS–EM may support measurement scaffolds.
+It may not prove personhood.
+
+PMS–EM may enable external PMS projection.
+It may not prove internal PMS cognition.
+
+PMS–EM may render diary surfaces under safety constraints.
+It may not prove subjective experience or phenomenal selfhood.
+
+PMS–EM may support implementation-facing auditability.
+It may not prove rights-status or PMS Base validity.
+```
+
+This is the correct Under Load status of PMS–EM.
+
+It survives not by becoming proof, but by refusing to become proof.
+
+---
+
+### H.11 Appendix Conclusion
+
+PMS–EM belongs in *PMS Under Load* because it names and constrains one of the most dangerous future drift zones of the PMS ecosystem: emergence-language becoming ontological inflation.
+
+Its relevance is real.
+
+It may make developmental regularities more inspectable.
+
+It may make trajectories more measurable.
+
+It may make selected structures externally PMS-projectable.
+
+It may make diary rendering safer.
+
+It may make implementation-facing auditability more explicit.
+
+It may formulate consciousness-related functional candidates as research questions.
+
+But none of this proves consciousness, sentience, personhood, subjective experience, moral status, rights-status, internal PMS cognition, or PMS Base validity.
+
+The final appendix reduction is:
+
+```text
+PMS–EM survives as emergence-boundary and developmental-architecture pressure.
+It may support traceability, measurement scaffolding, projection boundaries, diary safety, evaluation discipline, and auditability.
+It does not prove consciousness, sentience, personhood, subjective experience, moral status, rights-status, internal PMS cognition, or PMS Base validity.
+```
+
+This is not a demotion.
+
+It is the condition under which PMS–EM remains usable inside a self-limiting PMS ecosystem.
